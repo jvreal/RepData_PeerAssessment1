@@ -1,15 +1,11 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
+# Reproducible Research: Peer Assessment 1
 
 
 ## Loading and preprocessing the data
 
 Read activity data file:
-```{r readdata, echo=TRUE}
+
+```r
 step_data <- read.csv("./activity.csv")
 ```
 
@@ -26,5 +22,3 @@ step_data <- read.csv("./activity.csv")
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
-
-
