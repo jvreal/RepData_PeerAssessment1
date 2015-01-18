@@ -292,4 +292,4 @@ xyplot(weekday_mean_data$mean_steps ~ weekday_mean_data$interval | weekday_mean_
 
 ![](PA1_template_files/figure-html/unnamed-chunk-15-1.png) 
 
-
+That completes this assignment.  Thank you.

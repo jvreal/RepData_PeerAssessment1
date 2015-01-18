@@ -148,4 +148,4 @@ library(lattice)
 xyplot(weekday_mean_data$mean_steps ~ weekday_mean_data$interval | weekday_mean_data$weekday, layout=c(1,2), type="l", xlab="Interval", ylab="Avg number steps")
 ```
 
-
+That completes this assignment.  Thank you.
